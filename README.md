@@ -6,3 +6,26 @@
 
 # Git Repository 
 - Where all the snapshots are stored
+
+
+
+# Git Branches
+
+- listing all branches
+
+- Adding a new branch 
+
+- Changing branches
+
+- Removing a branch
+
+
+
+
+
+
+
+
+
+
+
